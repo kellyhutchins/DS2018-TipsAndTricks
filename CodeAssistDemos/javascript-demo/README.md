@@ -13,7 +13,7 @@ In order to use intellisense from the JSAPI in your app you'll want to develop i
 ```
 * Install the ARCGIS API for JavaScript Typings 
 ```
-npm install --save @types/arcgis-js-api
+   npm install --save @types/arcgis-js-api
 ```
 * Define Babel options in package.json and add the following: 
 
