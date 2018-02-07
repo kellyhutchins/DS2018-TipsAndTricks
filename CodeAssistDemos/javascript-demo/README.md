@@ -1,4 +1,4 @@
-# Setup intellisense in VSCODE for JavaScript projects 
+# Intellisense in VSCODE for JavaScript projects 
 
 In order to use intellisense from the JSAPI in your app you'll want to develop in ES2015 and transpile your code to ES5. In this demo we do this using Babel.  If you'd like to read a bit more about ES6 and the JSAPI see Rene's [Use ES2015 with ArcGIS API for JavaScript] (http://odoe.net/blog/use-es2015-with-arcgis-api-for-javascript/) post. 
 
