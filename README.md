@@ -3,7 +3,7 @@ ArcGIS APi for JavaScript: Tips and Tricks for Developing and Debugging Apps
 
 
 
-* [Code Assist Demos](CodeAssistDemos/README.md])
+* [Code Assist Demo](CodeAssistDemos/javascript-demo/README.md)
 * Snippets use in VSCode, Sublime, Atom
     1. Demo creating snippet 
     2. Add snippet to Sublime or VSCode and show how to use 
