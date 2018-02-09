@@ -21,7 +21,7 @@ In order to use intellisense from the JSAPI in your app you'll want to develop i
   "babel": {
     "presets": ["env"],
     "plugins": ["transform-es2015-modules-amd"]
-}
+  }
 ```
 
 Alternatively create a .babelrc file with the above options. 
