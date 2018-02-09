@@ -47,6 +47,9 @@ http://odoe.net/blog/use-es2015-with-arcgis-api-for-javascript/
 Details on Babel CLI usage 
 https://babeljs.io/docs/usage/cli/
 
+ES6 Capabilities Browser Support 
+https://caniuse.com/#search=es6
+
 VSCode Intellisense Doc
 https://code.visualstudio.com/docs/languages/javascript
 
