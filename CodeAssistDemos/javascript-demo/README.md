@@ -8,8 +8,10 @@ In order to use intellisense from the JSAPI in your app you'll want to develop i
 * Run npm init --yes to create a package.json file if you don't already have one
 * Install Babel CLI by running  ``` npm install --save-dev babel-cli``` at the command line 
 * Install the Babel env preset to enable transforms for ES2015  and the plug-in to enable amd output
-``` npm install babel-preset-env --save-dev
+``` 
+    npm install babel-preset-env --save-dev
     npm install --save-dev babel-plugin-transform-es2015-modules-amd
+
 ```
 * Install the ARCGIS API for JavaScript Typings 
 ```
