@@ -6,7 +6,10 @@ In order to use intellisense from the JSAPI in your app you'll want to develop i
 
 * Make sure you have npm and node installed.  [Install details](https://www.npmjs.com/get-npm)
 * Run npm init --yes to create a package.json file if you don't already have one
-* Install Babel CLI by running  ``` npm install --save-dev babel-cli``` at the command line 
+* Install Babel CLI by running the following at the command line 
+``` 
+    npm install --save-dev babel-cli
+```
 * Install the Babel env preset to enable transforms for ES2015  and the plug-in to enable amd output
 ``` 
     npm install babel-preset-env --save-dev
