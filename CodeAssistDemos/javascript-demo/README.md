@@ -39,6 +39,8 @@ Alternatively create a .babelrc file with the above options.
   }
 ```
 
+To test the scripts type ``` npm run dev ``` at the command line or ``` npm run build ```
+
 ## Resources 
 ---
 Rene's post
