@@ -47,6 +47,7 @@ Setting up a development web server is an easy way to quickly develop and test y
     4. Open a browser and point it to the url specified in the console and you should see your app.
 
 [Development Server Demo](Developm/Express)
+[IndexZero](https://github.com/indexzero/http-server)
 
 ## JSAPI Resources Repo
 * [JShint, oauth callback, TS etc](https://github.com/Esri/jsapi-resources)
