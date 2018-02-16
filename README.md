@@ -20,7 +20,7 @@ ArcGIS APi for JavaScript: Tips and Tricks for Developing and Debugging Apps
 
 Setting up a development web server is an easy way to quickly develop and test your apps built with the ArcGIS API for JavaScript without having to setup something like Apache or IIS. 
 
-* John Gravois has a great intro on wetting up a [web server](https://gist.github.com/jgravois/5e73b56fa7756fd00b89)
+* John Gravois has a great intro on setting up a [web server](https://gist.github.com/jgravois/5e73b56fa7756fd00b89)
 * Many IDE's have extensions or plug-ins you can install. One example is Live Server in VSCode
 * Another option is to use [Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment) to create a simple web server within your project. 
     1. Install express
