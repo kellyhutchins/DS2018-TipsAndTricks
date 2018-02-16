@@ -74,3 +74,4 @@ Setting up a development web server is an easy way to quickly develop and test y
     * Using debugger to stop at point in code then inspect. 
     * Throttling via browser
     * Mobile emulation 
+    * Debug requests using Network tab 
