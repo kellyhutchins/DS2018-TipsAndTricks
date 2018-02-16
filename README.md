@@ -45,7 +45,8 @@ Setting up a development web server is an easy way to quickly develop and test y
 
 [Development Server Demo](Developm/Express)
 
-
+## JSAPI Resources Repo
+* [JShint, oauth callback, TS etc](https://github.com/Esri/jsapi-resources)
 
 ### Dev Tool Workspaces 
     * Persist dev tool changes locally https://developers.google.com/web/tools/setup/setup-workflow
