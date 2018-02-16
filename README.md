@@ -69,6 +69,9 @@ Setting up a development web server is an easy way to quickly develop and test y
     * How do I know when xxx feature will be available in 4.x
     * 4x extent-changed event: https://community.esri.com/thread/207901-in-4x-how-to-catch-extent-change-event
 
+### Accessibility 
+ * Audits 
+ * Check color contrast 
 ### Debugging and Testing
     * Using debugger to stop at point in code then inspect. 
     * Throttling via browser
