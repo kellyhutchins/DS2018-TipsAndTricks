@@ -10,8 +10,7 @@ ArcGIS APi for JavaScript: Tips and Tricks for Developing and Debugging Apps
 
     1. Demo creating snippet 
     2. Add snippet to Sublime or VSCode and show how to use 
-    3. Also show a demo of combining a few Emmet shortcuts and snippets to setup project 
-        (link:css ! etc )
+    3. Also show a demo of combining a few Emmet shortcuts and snippets to setup project. Use ! to stub out html, link:css
 
     Resources :
      [Tool to create snippets](https://pawelgrzybek.com/snippet-generator/)
