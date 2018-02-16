@@ -1,11 +1,11 @@
 # DS2018-TipsAndTricks
 ArcGIS APi for JavaScript: Tips and Tricks for Developing and Debugging Apps 
 
+### Setup Code Assist 
+  * [Code Assist Demo](CodeAssistDemos/javascript-demo/README.md)    
+  * Resources:    
+    [JSAPI TS Setup](https://developers.arcgis.com/javascript/latest/guide/typescript-setup/index.html)
 
-
-### [Code Assist Demo](CodeAssistDemos/javascript-demo/README.md)
-Resources:    
-[JSAPI TS Setup](https://developers.arcgis.com/javascript/latest/guide/typescript-setup/index.html)
 ### Snippets use in VSCode, Sublime, Atom
 
     1. Demo creating snippet 
