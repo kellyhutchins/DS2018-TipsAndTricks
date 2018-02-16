@@ -15,6 +15,7 @@ ArcGIS APi for JavaScript: Tips and Tricks for Developing and Debugging Apps
      [My snippet library](https://github.com/kellyhutchins/Code-Snippets-JSAPI)
      [Emmet support for Sublime Text 3](https://emmet.io/blog/sublime-text-3/)
      [Emmet cheat sheet](https://docs.emmet.io/cheat-sheet/)
+     [JSAPI TS Setup](https://developers.arcgis.com/javascript/latest/guide/typescript-setup/index.html)
 
 ### Local Web Server 
 
