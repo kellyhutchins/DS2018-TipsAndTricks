@@ -25,7 +25,7 @@ Setting up a development web server is an easy way to quickly develop and test y
 
 * John Gravois has a great intro on setting up a [web server](https://gist.github.com/jgravois/5e73b56fa7756fd00b89)
 * Many IDE's have extensions or plug-ins you can install. One example is Live Server in VSCode
-* Another option is to use [Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment) to create a simple web server within your project. 
+* (TODO) update demo to use http-server Another option is to use [Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment) to create a simple web server within your project. 
     1. Install express
             ```
             npm install express
@@ -78,3 +78,7 @@ Setting up a development web server is an easy way to quickly develop and test y
     * Throttling via browser
     * Mobile emulation 
     * Debug requests using Network tab 
+    
+   ### Additional Tips
+   * Join the Spatial Community on slack
+   * Geonet
