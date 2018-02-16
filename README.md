@@ -57,7 +57,8 @@ Setting up a development web server is an easy way to quickly develop and test y
     * JSON Prettifier (I use JSONView in Chrome ) [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
     * Screen Reader [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en)
 
-
+### AGO Assistant 
+[Ago Assistant Tool](https://ago-assistant.esri.com/)
 ### JSAPI FAQ
     * Module order 
     * How do I know when xxx feature will be available in 4.x
