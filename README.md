@@ -79,6 +79,8 @@ Setting up a development web server is an easy way to quickly develop and test y
     * Mobile emulation 
     * Debug requests using Network tab 
     
+  ### Custom ArcGIS API 4 for JavaScript object formatting for Chrome Dev Tools 
+   * Setup and demo this: https://github.com/ycabon/arcgis-js-api-devtools
    ### Additional Tips
    * Join the Spatial Community on slack
    * Geonet
