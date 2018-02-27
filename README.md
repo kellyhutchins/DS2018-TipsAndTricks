@@ -1,12 +1,12 @@
 # DS2018-TipsAndTricks
 ArcGIS APi for JavaScript: Tips and Tricks for Developing and Debugging Apps 
 
-### Setup Code Assist 
+### Setup Code Assist  (K)
   * [Code Assist Demo](CodeAssistDemos/javascript-demo/README.md)    
   * Resources:    
     [JSAPI TS Setup](https://developers.arcgis.com/javascript/latest/guide/typescript-setup/index.html)
 
-### Snippets use in VSCode, Sublime, Atom
+### Snippets use in VSCode, Sublime, Atom (K)
 
     1. Demo creating snippet 
     2. Add snippet to Sublime or VSCode and show how to use 
@@ -19,7 +19,7 @@ ArcGIS APi for JavaScript: Tips and Tricks for Developing and Debugging Apps
      [Emmet cheat sheet](https://docs.emmet.io/cheat-sheet/)
   
 
-### Local Web Server 
+### Local Web Server (K)
 
 Setting up a development web server is an easy way to quickly develop and test your apps built with the ArcGIS API for JavaScript without having to setup something like Apache or IIS. 
 
@@ -49,39 +49,40 @@ Setting up a development web server is an easy way to quickly develop and test y
 [Development Server Demo](Developm/Express)
 [IndexZero](https://github.com/indexzero/http-server)
 
-## JSAPI Resources Repo
+## JSAPI Resources Repo  (H)
 * [JShint, oauth callback, TS etc](https://github.com/Esri/jsapi-resources)
 
-### Dev Tool Workspaces 
+### Dev Tool Workspaces (H)
     * Persist dev tool changes locally https://developers.google.com/web/tools/setup/setup-workflow
     * Local overrides 
 
-### Useful Browser Extensions 
+### Useful Browser Extensions  (H & K)
     * Accessibility Testing [Axe accessibility extenstion](https://axe-core.org/about/) 
         **  Axe Coconut (like Chrome Canary or Firefox Nightly)
     * Quickly check out fonts used on web page [WhatFont](http://www.chengyinliu.com/whatfont.html)
     * JSON Prettifier (I use JSONView in Chrome ) [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
     * Screen Reader [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en)
 
-### AGO Assistant 
+### AGO Assistant  (H)
 [Ago Assistant Tool](https://ago-assistant.esri.com/)
-### JSAPI FAQ
+### JSAPI FAQ  (H)
     * Module order 
     * How do I know when xxx feature will be available in 4.x
     * 4x extent-changed event: https://community.esri.com/thread/207901-in-4x-how-to-catch-extent-change-event
     * View then/when 
 
-### Accessibility 
+### Accessibility (K)
  * Audits 
  * Check color contrast 
-### Debugging and Testing
+ 
+### Debugging and Testing  (K)
     * Using debugger to stop at point in code then inspect. 
     * Throttling via browser
     * Mobile emulation 
     * Debug requests using Network tab 
     
-  ### Custom ArcGIS API 4 for JavaScript object formatting for Chrome Dev Tools 
+  ### Custom ArcGIS API 4 for JavaScript object formatting for Chrome Dev Tools (Either H or K)
    * Setup and demo this: https://github.com/ycabon/arcgis-js-api-devtools
-   ### Additional Tips
+   ### Additional Tips  (??)
    * Join the Spatial Community on slack
    * Geonet
