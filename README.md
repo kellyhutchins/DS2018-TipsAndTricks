@@ -18,7 +18,8 @@ ArcGIS APi for JavaScript: Tips and Tricks for Developing and Debugging Apps
      [Emmet support for Sublime Text 3](https://emmet.io/blog/sublime-text-3/)
      [Emmet cheat sheet](https://docs.emmet.io/cheat-sheet/)
   
-
+### Emmet (K)
+ 
 ### Local Web Server (K)
 
 Setting up a development web server is an easy way to quickly develop and test your apps built with the ArcGIS API for JavaScript without having to setup something like Apache or IIS. 
